@@ -1,0 +1,60 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+
+
+ .container{
+    /* border: 2px solid red; */
+    text-align: center;
+    justify-content: center;
+    margin-top: 15%;
+    font-size: 30px;
+    /* margin: 0px 527px 0px 527px; */
+} 
+
+input{
+    margin-top: 25px;
+    font-size: 25px;
+}
+
+#btn{
+    margin-top: 25px;
+    font-size: 25px;
+    margin-left: 15px;
+    width: 100px;
+    background-color: green;
+}
+
+#Todolist{
+    align-items: center;
+    justify-content: center;
+    /* text-align: center; */
+} 
+
+.listed{
+    background-color: rgb(174, 168, 161);
+    color: white;
+    /* width: auto; */
+    max-width: 400px; /*Set the desired width */
+    word-wrap: break-word;  Ensure long words wrap to the next line
+    margin: 10px 527px 0px 527px;
+    font-size: 25px;
+    border: 2px solid black;
+    
+}
+
+#Todolist{
+    margin-left: 525px;
+    max-width: 400px; /*Set the desired width */
+    word-wrap: break-word;  /*Ensure long words wrap to the next line*/
+    /* position: absolute; */
+}
+
